@@ -1,0 +1,5 @@
+node_modules/
+marz_database.json
+marz_database.json.tmp
+.env
+.DS_Store
